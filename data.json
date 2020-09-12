@@ -1,0 +1,10 @@
+{
+  "meta": { "plainLanguage": "Deutsch", "translatedLanguage": "English" },
+  "voc": [
+    { "plain": "Baum", "translated": "Tree" },
+    { "plain": "Haus", "translated": "House" },
+    { "plain": "Maus", "translated": "Mouse" },
+    { "plain": "Garten", "translated": "Garden" }
+  ]
+}
+
